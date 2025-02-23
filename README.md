@@ -1,3 +1,3 @@
-# Measuring the conservancy of plants
+# A new metric for plant conservancy
 
-Data and code supporting my work in quantitative botany. 
+Data and code supporting my paper, *A new metric for measuring the conservancy of plants*, currently under peer review.
